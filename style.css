@@ -28,10 +28,14 @@ main{
     background-color: rgba(255, 255, 255, 0.377);
 }
 
+h2{
+    text-align: center;
+}
+
 h3{
     text-align: center;
 }
 
-input{
+/* input{
     text-align: center;
-}
+} */
